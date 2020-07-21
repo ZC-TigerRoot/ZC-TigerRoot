@@ -1,116 +1,45 @@
-### Hi there :wave:
-I'm a middle school student in Wuhan, China. And a year later, I will take the entrance examination, so maybe I won't code ~~fork~~ to much this year.
-<p class="center" style="color:red">[My Blog](https://blog.tigerroot.cn/ "My Blog")</p> 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-```python
-print('Hello World')
-```
-```C
-#include<stdio.h>
-int main()
-{
-  printf("Hello World");
-  return 0;
-}
+Hey,That
+# I'm ZC-TigerRoot
+
+A **Student** From 🌏China🌏 And Am Loving Coding
+
+📄Profile
+
+> wget -O MyProfile profile://ZC-TigerRoot/README.md
 
 ```
-```C++
-#include <iostream>
-using namespace std;
-int main()
-{
-    cout <<"Hello World"<< endl;
-    return 0;
-}
-```
-```ruby
-puts 'Hello World'
-```
-```sql
-SELECT 'Hello World';
-PRINT 'Hello World';
-```
-```java
-class HelloWorld
-{
-  public static void main(String[] args)
-  {
-    System.out.println("Hello World");
-  }
-}
-```
-```csharp
-using System;
 
-namespace helloWorld
-{
-    class HelloWorld
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World");
-        }
-    }
-}
-```
-```vb
-Module HelloWorld
-   Sub Main( )
-      System.Console.WriteLine("Hello world")
-   End Sub
-End Module
-```
-```json
-console.log("Hello World");
-```
-```php
-<?php
-  echo "Hello World";
-?>
-```
-```objective-c
-#import <Foundation/Foundation.h>
+--22:33:33--  profile://ZC-TigerRoot/README.md
+           => `README.md'
+Resolving ChenYFan... -1.-1.-1.-1, ::-1
+Connecting to ChenYFan|-1.-1.-1.-1|:65536... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 233 [text/html]
 
-int main(int argc, const char * argv[]) {
-    @autoreleasepool {
-        NSLog(@"Hello World");
-    }
-    return 0;
-}
-```
-```swift
-print("Hello World")
-```
-```bash
-@echo off
-echo Hello World
-```
-```coffeescript
-alert "Hello World"
-```
-```d
-import std.stdio;
-void main()
-{
-    writeln("Hello World");
-}
-```
-```dart
-void main() {
-    print('hello world');
-}
-```
-```delphi
-procedure TForm1.ShowAMessage;
-begin
-  ShowMessage('Hello World');
-end;
-```
-```erlang
-% hello world program
--module(helloworld). 
--export([start/0]). 
+40%[========================>                                      ] 200           100K/s   in 2s     [English]
 
-start() -> 
-   io:fwrite("Hello World\n").
+100%[=============================================================>] 81            100K/s   in 0s     [Chinese]
+
+10%[=====>                                                         ] +∞            20K/s    in +∞s    [C++]
+
+3%[=>                                                              ] 1002400       0K/s     in +∞s    [PHP]
+
+45%[===============================>                               ] 65535         655K/s   in 101s   [LiunxServer]
+
+2%[=>                                                              ] 990900        --.-K/s  in --s    [Javascript]
+
+?%[???????????????????????????????????????????????????????????????>] ??            ??K/s    in ??s    [???]
+
+
+33:44:55 (2.333333 MB/s) - `README.md' saved [81/81]
+
 ```
+
+💬 [Here Are The Way To Contact Me](https://blog.tigerroot.cn)
+Like [E-mail](mailto:zc.tigerroot@tigerroot.cn)
+
+🐷Status
+
+[![ZC.igerRoot's github stats](https://github-readme-stats.vercel.app/api/?username=ZC-TigerRoot&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+
