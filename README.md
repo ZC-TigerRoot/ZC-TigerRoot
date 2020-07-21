@@ -1,5 +1,7 @@
 ### Hi there :wave:
 I'm a middle school student in Wuhan, China. And a year later, I will take the entrance examination, so maybe I won't code ~~fork~~ to much this year.
+<p class="center" style="color:red">[My Blog](https://blog.tigerroot.cn/ "My Blog")</p> 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ```python
 print('Hello World')
 ```
