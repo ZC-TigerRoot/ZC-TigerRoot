@@ -14,3 +14,8 @@ Why I'm ALL GREEN!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZC-TigerRoot&repo=green&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
+Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
