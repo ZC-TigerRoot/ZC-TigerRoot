@@ -12,10 +12,10 @@ Like [E-mail](mailto:zc.tigerroot@tigerroot.cn)
 
 Why I'm ALL GREEN!
 
-[![Readme Card](https://github-readme-stats.vercel.appapi/pin/?username=ZC-TigerRoot&repo=green&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZC-TigerRoot&repo=green&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.appapi/top-langs/?username=ZC-TigerRoot)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZC-TigerRoot)](https://github.com/anuraghazra/github-readme-stats)
 
 
