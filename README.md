@@ -12,7 +12,7 @@ Like [E-mail](mailto:zc.tigerroot@tigerroot.cn)
 
 Why I'm ALL GREEN!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZC-TigerRoot&repo=green&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZC-TigerRoot&repo=green&show_owner=true)](https://github.com/ZC-TigerRoot/green)
 
 Top Langs
 
