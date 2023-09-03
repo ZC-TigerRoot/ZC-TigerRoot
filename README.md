@@ -19,7 +19,9 @@ Like
 ---
 🐷Status
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZC-TigerRoot&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![ZC.TigerRoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZC-TigerRoot&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ZC.TigerRoot's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ZC-TigerRoot](https://github.com/anuraghazra/github-readme-stats)
 
 Why I'm ALL GREEN!
 
