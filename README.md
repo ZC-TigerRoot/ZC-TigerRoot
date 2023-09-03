@@ -1,9 +1,9 @@
 Hey,That
 # I'm ZC-TigerRoot
 
-A **Student** From 🌏China🌏 And Am Loving Coding
+A **Student** From 🌏China🌏
 
-💬 [Here Are The Way To Contact Me](https://blog.tigerroot.cn)
+💬 [Here Are Ways To Contact Me](https://blog.tigerroot.cn)
 Like [E-mail](mailto:zc.tigerroot@tigerroot.cn)
 
 🐷Status
