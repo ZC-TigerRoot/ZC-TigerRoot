@@ -33,8 +33,17 @@ Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZC-TigerRoot)](https://github.com/anuraghazra/github-readme-stats)
 
+```
+Gear
+Laptop: MECHREVO Yaoshi16 Super
+CPU: Intel Core i9-14900HX
+RAM: Samsung 32GB DDR5 5600MHz
+GPU: NVIDIA Geforce RTX 4080 Laptop GPU
+Monitor: LG UltraGear 27GS75Q 2K 200Hz
+SSD: Yangtze Memory PC411 NVMe4.0 1TB + Acer Predator GM7 NVMe4.0 2TB
+Mouse: Logitech G Pro Wireless
+Keyboard: Razer DeathStalker V2 Pro Wireless + IRok NA87 MAG
+Headset: Razer BlackShark V2 Pro
+```
 ---
 
-<!-- START_SECTION:blog -->
-
-<!-- END_SECTION:blog -->
