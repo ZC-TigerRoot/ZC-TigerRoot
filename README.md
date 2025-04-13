@@ -41,8 +41,8 @@ RAM: Samsung 32GB DDR5 5600MHz
 GPU: NVIDIA Geforce RTX 4080 Laptop GPU
 Monitor: LG UltraGear 27GS75Q 2K 200Hz
 SSD: Yangtze Memory PC411 NVMe4.0 1TB + Acer Predator GM7 NVMe4.0 2TB
-Mouse: Logitech G Pro Wireless
-Keyboard: Razer DeathStalker V2 Pro Wireless + IRok NA87 MAG
+Mouse: Logitech G Pro X Superlight 2
+Keyboard: Razer DeathStalker V2 Pro Wireless + IRok MG68
 Headset: Razer BlackShark V2 Pro
 ```
 ---
