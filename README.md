@@ -25,9 +25,6 @@ Like
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ZC-TigerRoot&theme=dark)](https://git.io/streak-stats)
 
 [![ZC.TigerRoot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZC-TigerRoot&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-Why I'm ALL GREEN!
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ZC-TigerRoot&repo=green&show_owner=true)](https://github.com/ZC-TigerRoot/green)
 
 Top Langs
 
