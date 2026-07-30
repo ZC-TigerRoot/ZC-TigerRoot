@@ -14,7 +14,7 @@
 **Beijing Jiaotong University** · Wuhan, Hubei, China · UTC+8
 
 [![Website](https://img.shields.io/badge/Website-bjtuedu.cn-0D1117?style=for-the-badge&logo=google-chrome&logoColor=58A6FF)](https://bjtuedu.cn/)
-[![Blog](https://img.shields.io/badge/Blog-tigerroot.cn-0D1117?style=for-the-badge&logo=ghost&logoColor=FF71CE)](https://blog.tigerroot.cn)
+[![Blog](https://img.shields.io/badge/Blog-bjtuedu.cn-0D1117?style=for-the-badge&logo=rss&logoColor=FF71CE)](https://bjtuedu.cn/)
 [![Email](https://img.shields.io/badge/Email-zc.tigerroot@tigerroot.cn-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zc.tigerroot@tigerroot.cn)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0006--8185-0D1117?style=for-the-badge&logo=orcid&logoColor=A6CE39)](https://orcid.org/0009-0000-0006-8185)
 [![X](https://img.shields.io/badge/X-@TigerRootZC-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://twitter.com/TigerRootZC)
@@ -25,22 +25,20 @@
 
 ## 👋 About Me
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  Name      : 张持 / Zhang Chi                                │
-│  Role      : Student · Full-stack & AI tinkerer              │
-│  School    : Beijing Jiaotong University (BJTU)              │
-│  Base      : Wuhan, Hubei, China                             │
-│  Focus     : Web · Python · AI Agents · Graphics · DevOps    │
-│  Motto     : 若知是梦何须醒，不比真如意向会。                 │
-└──────────────────────────────────────────────────────────────┘
-```
+| | |
+|:--|:--|
+| **Name** | 张持 / Zhang Chi |
+| **Role** | Student · Full-stack & AI tinkerer |
+| **School** | Beijing Jiaotong University (BJTU) |
+| **Base** | Wuhan, Hubei, China |
+| **Focus** | Web · Python · AI Agents · Graphics · DevOps |
+| **Motto** | 若知是梦何须醒，不比真如意向会。 |
 
 - 🎓 Studying at **Beijing Jiaotong University**
 - 🔭 Building tools around **AI agents**, **WebGL**, **logistics systems**, and **server monitoring**
 - 🌱 Exploring **Cloudflare Workers**, **large-language-model apps**, and **real-time graphics**
 - 💬 Ask me about Python, TypeScript, Three.js, and self-hosted infra
-- 📫 Reach me: [blog.tigerroot.cn](https://blog.tigerroot.cn) · [zc.tigerroot@tigerroot.cn](mailto:zc.tigerroot@tigerroot.cn)
+- 📫 Reach me: [bjtuedu.cn](https://bjtuedu.cn/) · [zc.tigerroot@tigerroot.cn](mailto:zc.tigerroot@tigerroot.cn)
 - ⚡ Fun fact: I raytrace black holes for fun and ship cargo-management systems for work
 
 ---
@@ -49,25 +47,25 @@
 
 <p align="center">
   <a href="https://www.zhihu.com/people/zhang-chi-72-32">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fzhang-chi-72-32&query=count&style=for-the-badge&color=0084FF&label=%E7%9F%A5%E4%B9%8E&labelColor=0D1117&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600" alt="Zhihu"/>
+    <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/>
   </a>
   <a href="https://space.bilibili.com/396791442">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fbilibili%2F396791442&query=count&style=for-the-badge&color=FE7398&label=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9&labelColor=0D1117&logo=bilibili&logoColor=FE7398&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600" alt="Bilibili"/>
+    <img src="https://img.shields.io/badge/Bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-FE7398?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
   </a>
   <a href="https://github.com/ZC-TigerRoot">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FZC-TigerRoot&query=count&style=for-the-badge&color=58A6FF&label=GitHub&labelColor=0D1117&logo=github&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-ZC--TigerRoot-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561199193649529">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561199193649529&query=count&style=for-the-badge&color=1B2838&label=Steam&labelColor=0D1117&logo=steam&logoColor=66C0F4&suffix=+%E5%A5%BD%E5%8F%8B&cacheSeconds=3600" alt="Steam Friends"/>
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561199193649529">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561199193649529&query=count&style=for-the-badge&color=1B2838&label=Steam&labelColor=0D1117&logo=steam&logoColor=66C0F4&suffix=+%E6%B8%B8%E6%88%8F&cacheSeconds=3600" alt="Steam Games"/>
+    <img src="https://img.shields.io/badge/Steam-Profile-1B2838?style=for-the-badge&logo=steam&logoColor=66C0F4" alt="Steam"/>
   </a>
   <a href="https://music.163.com/#/user/home?id=2113196632">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fneteasemusic%2F2113196632&query=count&style=for-the-badge&color=E72D2C&label=%E7%BD%91%E6%98%93%E4%BA%91&labelColor=0D1117&logo=neteasecloudmusic&logoColor=E72D2C&suffix=+%E7%B2%89%E4%B8%9D&cacheSeconds=3600" alt="NetEase Cloud Music"/>
+    <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-Music-E72D2C?style=for-the-badge&logo=neteasecloudmusic&logoColor=white" alt="NetEase Cloud Music"/>
   </a>
-  <a href="https://afdian.net/@zctigerroot">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fafdian%2Fzctigerroot&query=count&style=for-the-badge&color=946CE6&label=%E7%88%B1%E5%8F%91%E7%94%B5&labelColor=0D1117&suffix=+%2F%E6%9C%88&cacheSeconds=3600" alt="Afdian"/>
+  <a href="https://afdian.com/a/zctigerroot">
+    <img src="https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-Sponsor-946CE6?style=for-the-badge" alt="Afdian"/>
+  </a>
+  <a href="https://bjtuedu.cn/">
+    <img src="https://img.shields.io/badge/Blog-bjtuedu.cn-FF71CE?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
   </a>
 </p>
 
@@ -132,16 +130,16 @@
 <div align="center">
 
 <a href="https://github.com/ZC-TigerRoot">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZC-TigerRoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ZC-TigerRoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
 </a>
 <a href="https://github.com/ZC-TigerRoot">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZC-TigerRoot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ZC-TigerRoot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
 </a>
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=ZC-TigerRoot&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<a href="https://github.com/ZC-TigerRoot">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZC-TigerRoot&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </a>
 
 <br/>
@@ -149,10 +147,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZC-TigerRoot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true" alt="Activity Graph" width="100%"/>
 </a>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ZC-TigerRoot&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
 
 </div>
 
@@ -219,7 +213,7 @@
 *「若知是梦何须醒，不比真如意向会。」*
 
 [![GitHub](https://img.shields.io/badge/Follow-ZC--TigerRoot-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ZC-TigerRoot)
-[![Blog](https://img.shields.io/badge/Read-My%20Blog-0D1117?style=for-the-badge&logo=rss&logoColor=FF71CE)](https://blog.tigerroot.cn)
+[![Blog](https://img.shields.io/badge/Read-My%20Blog-0D1117?style=for-the-badge&logo=rss&logoColor=FF71CE)](https://bjtuedu.cn/)
 [![Email](https://img.shields.io/badge/Say-Hello-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:zc.tigerroot@tigerroot.cn)
 
 <br/>
