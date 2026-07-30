@@ -138,8 +138,8 @@
 
 <br/>
 
-<a href="https://github.com/ZC-TigerRoot">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZC-TigerRoot&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=ZC-TigerRoot&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </a>
 
 <br/>
