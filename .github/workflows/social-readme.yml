@@ -1,5 +1,9 @@
 name: Social Readme
 
+# Fills <!-- START_SECTION:blog --> … <!-- END_SECTION:blog --> in README.md
+# with the latest posts from bjtuedu.cn. The Atom feed is used because the
+# action derives dates by splitting on "T", which only works for ISO dates.
+
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -8,10 +12,14 @@ on:
     branches:
       - master
 
+permissions:
+  contents: write
+
 jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
       - uses: zylele/social-readme@master
         with:
-          blog_rss_link: https://blog.tigerroot.cn/feed/
+          blog_rss_link: https://bjtuedu.cn/index.php/feed/atom/
+          blog_limit: 5
